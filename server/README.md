@@ -2,13 +2,33 @@
 
 Application built during second Next Level Week by [RocketSeat](https://rocketseat.com.br)
 
-## Web
+## Install
 
-The web application is inside **[web](web/)** folder.
+With npm
 
-## Server
+    npm i
 
-The server application is inside **[server](server/)** folder.
+With yarn
+
+    yarn
+
+Run migrations
+
+    npm knex:migrate
+
+or
+
+    yarn knex:migrate
+
+## Start
+
+With npm
+
+    npm start
+
+With yarn
+
+    yarn start
 
 ## Thanks
 
